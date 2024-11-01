@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 01 Nov 2024 15:39:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Nov 2024 16:04:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Adspiranten 2024</title>
 		<link>/adspiranten-2024/</link>
-					<comments>/adspiranten-2024/#respond</comments>
 		
 		<dc:creator><![CDATA[baldr]]></dc:creator>
 		<pubDate>Fri, 27 Sep 2024 19:57:00 +0000</pubDate>
@@ -74,8 +73,6 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/adspiranten-2024/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
